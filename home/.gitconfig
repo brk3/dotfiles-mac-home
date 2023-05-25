@@ -1,3 +1,5 @@
 [user]
     email = pauldbourke@protonmail.com
     name = Paul Bourke
+[init]
+	defaultBranch = main
